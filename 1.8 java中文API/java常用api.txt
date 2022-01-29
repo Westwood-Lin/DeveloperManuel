@@ -1,11 +1,13 @@
 java.lang.object
 
-![image-20200815125612616](C:\Users\10702\AppData\Roaming\Typora\typora-user-images\image-20200815125612616.png)
+![image-20200815125612616](java常用api.assets/image-20200815125612616.png)
 
 
 
-![image-20200815125652237](C:\Users\10702\AppData\Roaming\Typora\typora-user-images\image-20200815125652237.png)![image-20200815125657508](C:\Users\10702\AppData\Roaming\Typora\typora-user-images\image-20200815125657508.png)
+![image-20200815125652237](java常用api.assets/image-20200815125652237.png)
+
+![image-20200815125657508](java常用api.assets/image-20200815125657508.png)
 
 
 
-![image-20200815125704486](C:\Users\10702\AppData\Roaming\Typora\typora-user-images\image-20200815125704486.png)
+![image-20200815125704486](java常用api.assets/image-20200815125704486.png)
